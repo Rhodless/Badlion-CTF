@@ -11,7 +11,6 @@ Le mode a été fait pour du 5v5 (5 joueurs par team maximum)
 # Configuration
 <p>Rien n'est configurable, ce n'est pas un plugin fait pour être vendu ou utiliser sans connaissances avec l'api spigot</p>
 
-
 # Avancement
 Le plugin est TOTALEMENT terminé, il n'y a pas de bugs à ce que je sache mais il est possible qu'il y en ai. Tout a été approximativement reproduit comme Badlion sauf le fait que le dreapeau puisse bouger, au lieu d'afficher le dreapeau en items au dessus de quelqu'un ça met une wool.
 
@@ -24,3 +23,6 @@ Le plugin est TOTALEMENT terminé, il n'y a pas de bugs à ce que je sache mais 
   <li><a href="https://github.com/Rhodless/Badlion-CTF/blob/main/src/main/java/fr/rhodless/ctf/runnable/FlagLoadingTask.java">FlagLoadingTask.java</a></li>
   <li><a href="https://github.com/Rhodless/Badlion-CTF/blob/main/src/main/java/fr/rhodless/ctf/runnable/Start.java">Start.java</a></li>
 </ul>
+
+# Image du drapeau
+<img src="https://media.discordapp.net/attachments/689799843463299135/912109009912360980/unknown.png"></img>
