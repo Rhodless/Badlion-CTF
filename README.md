@@ -1,4 +1,5 @@
 # Badlion-CTF
+### SI VOUS VOULEZ REUTILISER LE PLUGIN CONTACTEZ "Hugo#0001 SUR DISCORD ou @Rhodless SUR TWITTER 
 ### Projet développé et terminé en janvier 2021, il avait été réalisé pour GloriaMC
 Badlion-CTF est globalement une reprise du CTF de Badlion (La première version du CTF qu'il y avait eu, exemple de video: https://www.youtube.com/watch?v=nRQ3oP5RhvE)
 Le but avait été de faire revivre l'ambiance du CTF de Badlion avec cet aspect compétitif. Le mode de jeu n'est jamais sorti sur GloriaMC (juste 1 jour avant la fermeture)
