@@ -25,4 +25,4 @@ Le plugin est TOTALEMENT terminé, il n'y a pas de bugs à ce que je sache mais 
 </ul>
 
 # Image du drapeau
-<img src="https://imgur.com/a/Pa5ZNHr.jpg"></img>
+<img src="https://i.imgur.com/abrOxwz.png"></img>
