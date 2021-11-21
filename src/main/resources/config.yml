@@ -1,0 +1,42 @@
+spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+red-flag:
+  ==: org.bukkit.Location
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+blue-flag:
+  ==: org.bukkit.Location
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+red-spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+blue-spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+
+

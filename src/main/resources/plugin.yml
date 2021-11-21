@@ -1,0 +1,8 @@
+main: fr.rhodless.ctf.Main
+version: 0.1
+author: Rhodless
+name: BadlionCTF
+api-version: 1.8.8
+commands:
+  ctf:
+    description: Set flag
